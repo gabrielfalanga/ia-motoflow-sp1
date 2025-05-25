@@ -79,7 +79,7 @@ cd motoflow-classificacao
 ```
 
 2. **Acesse o notebook:**
-   - Abra o arquivo `Challenge_IA_2025.ipynb` no [Google Colab](https://colab.research.google.com/) ou no seu ambiente Jupyter local.
+   - Abra o arquivo `Challenge_IA_2025.ipynb` no [Google Colab](https://colab.research.google.com/).
 
 3. **Execute o notebook por completo:**
    - O notebook fará:
